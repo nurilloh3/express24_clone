@@ -1,0 +1,23 @@
+@import "./reset";
+@import "./vars";
+@import "./fonts";
+
+
+body{
+    font-size: 14px;
+    min-width: 320px;
+    position: relative;
+    overflow-x: hidden;
+    line-height: 1.6;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+.wrapper{
+    max-width: 100%;
+    overflow: hidden;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
