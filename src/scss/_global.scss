@@ -8,8 +8,9 @@ body{
     min-width: 320px;
     position: relative;
     overflow-x: hidden;
-    font-family: 'Noto Sans Display';
+    font-family: "Noto Sans Display";
     font-weight: normal;
+    color: $dark;
     line-height: 1.6;
     display: flex;
     min-height: 100vh;
@@ -22,4 +23,13 @@ body{
 .container{
     width: 1140px;
     margin: 0 auto;
+}
+.title{
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.row{
+    display: flex;
+    transition: .3s all ease-out;
 }

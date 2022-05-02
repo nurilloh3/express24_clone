@@ -141,7 +141,7 @@ table {
 
 @font-face {
   font-family: "Noto Sans Display";
-  src: url("NotoSansDisplay-BlackItalic.woff2") format("woff2"), url("NotoSansDisplay-BlackItalic.woff") format("woff");
+  src: url("../fonts/NotoSansDisplay-BlackItalic.woff2") format("woff2"), url("../fonts/NotoSansDisplay-BlackItalic.woff") format("woff");
   font-weight: 900;
   font-style: italic;
   font-display: swap;
@@ -149,7 +149,7 @@ table {
 
 @font-face {
   font-family: "Noto Sans Display";
-  src: url("NotoSansDisplay-Black.woff2") format("woff2"), url("NotoSansDisplay-Black.woff") format("woff");
+  src: url("../fonts/NotoSansDisplay-Black.woff2") format("woff2"), url("../fonts/NotoSansDisplay-Black.woff") format("woff");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -157,7 +157,7 @@ table {
 
 @font-face {
   font-family: "Noto Sans Display";
-  src: url("NotoSansDisplay-ExtraBold.woff2") format("woff2"), url("NotoSansDisplay-ExtraBold.woff") format("woff");
+  src: url("../fonts/NotoSansDisplay-ExtraBold.woff2") format("woff2"), url("../fonts/NotoSansDisplay-ExtraBold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -165,7 +165,7 @@ table {
 
 @font-face {
   font-family: "Noto Sans Display";
-  src: url("NotoSansDisplay-Bold.woff2") format("woff2"), url("NotoSansDisplay-Bold.woff") format("woff");
+  src: url("../fonts/NotoSansDisplay-Bold.woff2") format("woff2"), url("../fonts/NotoSansDisplay-Bold.woff") format("woff");
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -173,7 +173,7 @@ table {
 
 @font-face {
   font-family: "Noto Sans Display";
-  src: url("NotoSansDisplay-BoldItalic.woff2") format("woff2"), url("NotoSansDisplay-BoldItalic.woff") format("woff");
+  src: url("../fonts/NotoSansDisplay-BoldItalic.woff2") format("woff2"), url("../fonts/NotoSansDisplay-BoldItalic.woff") format("woff");
   font-weight: bold;
   font-style: italic;
   font-display: swap;
@@ -181,7 +181,7 @@ table {
 
 @font-face {
   font-family: "Noto Sans Display";
-  src: url("NotoSansDisplay-ExtraLight.woff2") format("woff2"), url("NotoSansDisplay-ExtraLight.woff") format("woff");
+  src: url("../fonts/NotoSansDisplay-ExtraLight.woff2") format("woff2"), url("../fonts/NotoSansDisplay-ExtraLight.woff") format("woff");
   font-weight: 200;
   font-style: normal;
   font-display: swap;
@@ -189,7 +189,7 @@ table {
 
 @font-face {
   font-family: "Noto Sans Display";
-  src: url("NotoSansDisplay-ExtraBoldItalic.woff2") format("woff2"), url("NotoSansDisplay-ExtraBoldItalic.woff") format("woff");
+  src: url("../fonts/NotoSansDisplay-ExtraBoldItalic.woff2") format("woff2"), url("../fonts/NotoSansDisplay-ExtraBoldItalic.woff") format("woff");
   font-weight: bold;
   font-style: italic;
   font-display: swap;
@@ -197,7 +197,7 @@ table {
 
 @font-face {
   font-family: "Noto Sans Display";
-  src: url("NotoSansDisplay-ExtraLightItalic.woff2") format("woff2"), url("NotoSansDisplay-ExtraLightItalic.woff") format("woff");
+  src: url("../fonts/NotoSansDisplay-ExtraLightItalic.woff2") format("woff2"), url("../fonts/NotoSansDisplay-ExtraLightItalic.woff") format("woff");
   font-weight: 200;
   font-style: italic;
   font-display: swap;
@@ -205,7 +205,7 @@ table {
 
 @font-face {
   font-family: "Noto Sans Display";
-  src: url("NotoSansDisplay-Italic.woff2") format("woff2"), url("NotoSansDisplay-Italic.woff") format("woff");
+  src: url("../fonts/NotoSansDisplay-Italic.woff2") format("woff2"), url("../fonts/NotoSansDisplay-Italic.woff") format("woff");
   font-weight: normal;
   font-style: italic;
   font-display: swap;
@@ -213,7 +213,7 @@ table {
 
 @font-face {
   font-family: "Noto Sans Display";
-  src: url("NotoSansDisplay-LightItalic.woff2") format("woff2"), url("NotoSansDisplay-LightItalic.woff") format("woff");
+  src: url("../fonts/NotoSansDisplay-LightItalic.woff2") format("woff2"), url("../fonts/NotoSansDisplay-LightItalic.woff") format("woff");
   font-weight: 300;
   font-style: italic;
   font-display: swap;
@@ -221,7 +221,7 @@ table {
 
 @font-face {
   font-family: "Noto Sans Display";
-  src: url("NotoSansDisplay-Light.woff2") format("woff2"), url("NotoSansDisplay-Light.woff") format("woff");
+  src: url("../fonts/NotoSansDisplay-Light.woff2") format("woff2"), url("../fonts/NotoSansDisplay-Light.woff") format("woff");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -229,7 +229,7 @@ table {
 
 @font-face {
   font-family: "Noto Sans Display";
-  src: url("NotoSansDisplay-Medium.woff2") format("woff2"), url("NotoSansDisplay-Medium.woff") format("woff");
+  src: url("../fonts/NotoSansDisplay-Medium.woff2") format("woff2"), url("../fonts/NotoSansDisplay-Medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -237,7 +237,7 @@ table {
 
 @font-face {
   font-family: "Noto Sans Display";
-  src: url("NotoSansDisplay-Regular.woff2") format("woff2"), url("NotoSansDisplay-Regular.woff") format("woff");
+  src: url("../fonts/NotoSansDisplay-Regular.woff2") format("woff2"), url("../fonts/NotoSansDisplay-Regular.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -245,7 +245,7 @@ table {
 
 @font-face {
   font-family: "Noto Sans Display";
-  src: url("NotoSansDisplay-MediumItalic.woff2") format("woff2"), url("NotoSansDisplay-MediumItalic.woff") format("woff");
+  src: url("../fonts/NotoSansDisplay-MediumItalic.woff2") format("woff2"), url("../fonts/NotoSansDisplay-MediumItalic.woff") format("woff");
   font-weight: 500;
   font-style: italic;
   font-display: swap;
@@ -253,7 +253,7 @@ table {
 
 @font-face {
   font-family: "Noto Sans Display";
-  src: url("NotoSansDisplay-Thin.woff2") format("woff2"), url("NotoSansDisplay-Thin.woff") format("woff");
+  src: url("../fonts/NotoSansDisplay-Thin.woff2") format("woff2"), url("../fonts/NotoSansDisplay-Thin.woff") format("woff");
   font-weight: 100;
   font-style: normal;
   font-display: swap;
@@ -261,7 +261,7 @@ table {
 
 @font-face {
   font-family: "Noto Sans Display";
-  src: url("NotoSansDisplay-SemiBoldItalic.woff2") format("woff2"), url("NotoSansDisplay-SemiBoldItalic.woff") format("woff");
+  src: url("../fonts/NotoSansDisplay-SemiBoldItalic.woff2") format("woff2"), url("../fonts/NotoSansDisplay-SemiBoldItalic.woff") format("woff");
   font-weight: 600;
   font-style: italic;
   font-display: swap;
@@ -269,7 +269,7 @@ table {
 
 @font-face {
   font-family: "Noto Sans Display";
-  src: url("NotoSansDisplay-SemiBold.woff2") format("woff2"), url("NotoSansDisplay-SemiBold.woff") format("woff");
+  src: url("../fonts/NotoSansDisplay-SemiBold.woff2") format("woff2"), url("../fonts/NotoSansDisplay-SemiBold.woff") format("woff");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -277,7 +277,7 @@ table {
 
 @font-face {
   font-family: "Noto Sans Display";
-  src: url("NotoSansDisplay-ThinItalic.woff2") format("woff2"), url("NotoSansDisplay-ThinItalic.woff") format("woff");
+  src: url("../fonts/NotoSansDisplay-ThinItalic.woff2") format("woff2"), url("../fonts/NotoSansDisplay-ThinItalic.woff") format("woff");
   font-weight: 100;
   font-style: italic;
   font-display: swap;
@@ -290,6 +290,7 @@ body {
   overflow-x: hidden;
   font-family: "Noto Sans Display";
   font-weight: normal;
+  color: #222222;
   line-height: 1.6;
   display: flex;
   min-height: 100vh;
@@ -306,12 +307,24 @@ body {
   margin: 0 auto;
 }
 
+.title {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.row {
+  display: flex;
+  transition: 0.3s all ease-out;
+}
+
 header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 18px;
+  padding: 16px 0 20px 0;
   border-bottom: 1px solid #E6E6E6;
+  margin-bottom: 40px;
 }
 
 header div {
@@ -338,4 +351,40 @@ header .search-input button {
   background-color: transparent;
   border: none;
   outline: none;
+}
+
+header .auth a {
+  margin: 0 8px;
+  text-decoration: none;
+  color: #222222;
+}
+
+header .auth a:hover {
+  color: #454545;
+}
+
+.specials {
+  display: flex;
+  flex-direction: column;
+}
+
+.specials .special-row {
+  display: flex;
+  overflow: hidden;
+}
+
+.specials .special-row .special-img {
+  width: 235px;
+  height: 140px;
+  margin-right: 20px;
+}
+
+.specials .special-row .special-img:last-child {
+  margin: 0;
+}
+
+.specials .special-row .special-img img {
+  max-width: 100%;
+  -o-object-fit: fill;
+     object-fit: fill;
 }

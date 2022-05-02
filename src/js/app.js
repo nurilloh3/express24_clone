@@ -1,2 +1,3 @@
-"use strict";
-console.log('Hello world');
+import { exSwipper  } from "./modules/functions.js";
+
+exSwipper('.special-row', '.row', '.special-img')
