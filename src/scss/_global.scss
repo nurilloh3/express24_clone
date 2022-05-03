@@ -17,12 +17,14 @@ body{
     flex-direction: column;
 }
 .wrapper{
-    max-width: 100%;
     overflow: hidden;
 }
 .container{
-    width: 1140px;
+    position: relative;
+    max-width: 1170px;
     margin: 0 auto;
+    flex-basis: 100%;
+    overflow: hidden;
 }
 .title{
     font-size: 24px;
@@ -31,5 +33,7 @@ body{
 }
 .row{
     display: flex;
+    position: relative;
+    // min-width: 100%;
     transition: .3s all ease-out;
 }

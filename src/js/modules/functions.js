@@ -6,8 +6,8 @@ export const exSwipper = function(className, rowClassName, items){
     let elemWidth = 0;
 
     const autoSwipper = () => {
-        const rowLength = (swipperItems.length - 3) * swipperItems[0].offsetWidth;
-        elemWidth += swipperItems[0].offsetWidth;
+        const rowLength = (swipperItems.length - 3) * (swipperItems[0].offsetWidth + 20);
+        elemWidth += swipperItems[0].offsetWidth + 20;
         if(elemWidth === rowLength) elemWidth = 0
         swipperRow.style.transform = `translateX(-${elemWidth}px)`
         console.log(swipperRow.style.transform);

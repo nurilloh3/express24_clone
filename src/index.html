@@ -3,11 +3,14 @@
 @@include("html/head.html", {
     "title": "Главная"
 })
-<body>
+<body class="webp">
     <div class="wrapper">
         @@include("html/header.html")
         <main>
-            @@include("html/specials.html")
+            <div class="container">
+                @@include("html/specials.html")
+                @@include("html/top-products.html")
+            </div>
         </main>
         @@include("html/footer.html")
     </div>
